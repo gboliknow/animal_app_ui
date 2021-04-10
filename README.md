@@ -1,6 +1,9 @@
 # animal_app_ui
 
 A new Flutter project.
+![animal_app_ui](https://user-images.githubusercontent.com/27766375/114268326-48055d80-99df-11eb-99ab-a1edf5dbf88e.jpg)
+![example animal_app_ui](https://user-images.githubusercontent.com/27766375/114268330-49cf2100-99df-11eb-916d-6c1c47867104.jpg)
+
 
 ## Getting Started
 
